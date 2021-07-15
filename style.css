@@ -1,0 +1,24 @@
+.hide {
+  display: none;
+}
+.editorWrap {
+  max-width: 600px;
+  margin: 1.125rem auto;
+  
+  
+}
+.maximized {
+  width: 96%;
+  min-height: 100vh;
+  margin: auto;
+}
+
+
+
+.previewWrap {
+
+  max-width: 800px;
+  margin: 1.25rem auto;
+  min-height: 200px;
+  overflow-wrap: break-word;
+}
